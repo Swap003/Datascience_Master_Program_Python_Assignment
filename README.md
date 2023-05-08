@@ -1,2 +1,2 @@
-# swap_pyhon_script_repo
+# swap_python_script_repo
 Repository for python scripts
