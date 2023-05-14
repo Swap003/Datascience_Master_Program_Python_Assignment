@@ -1,2 +1,2 @@
-# swap_python_script_repo
+# Datascience_Master_Program_python_script_repo
 Repository for python scripts
